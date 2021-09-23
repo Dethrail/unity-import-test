@@ -43,3 +43,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8884d15c521c93409bfa1d738cfd506, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  methodName: Boink

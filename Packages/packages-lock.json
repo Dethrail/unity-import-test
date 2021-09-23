@@ -142,11 +142,18 @@
       }
     },
     "com.unityexample.createparent": {
-      "version": "https://github.com/Dethrail/unity-linker-package.git",
+      "version": "https://github.com/Dethrail/unity-linker-package2.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "616788e23975a07da0dfcc3b0d285b3c1876a546"
+      "hash": "7c6114c1756c5c6a0267558d15ae4220c696671c"
+    },
+    "com.unityexample.createparent2": {
+      "version": "https://github.com/Dethrail/unity-linker-package2.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4bf34d849beee5102d42d482fa4699fa0be150ee"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
